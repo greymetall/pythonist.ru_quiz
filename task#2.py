@@ -5,4 +5,4 @@
 
 
 index_multiplier = lambda lst: sum(i*elem for i, elem in enumerate(lst))
-index_multiplier([1, 2, 3, 4, 5])
+print(index_multiplier([1, 2, 3, 4, 5]))
