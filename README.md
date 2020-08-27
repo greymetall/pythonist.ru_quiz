@@ -1,5 +1,6 @@
-# pythonist.ru_quiz
-Coding-marathon from pythonist.ru
+# pythonist.ru quiz
+
+Coding-marathon from [pythonist.ru](https://pythonist.ru)
 
 Условия марафона: 
 1. Будет 10 задач
@@ -11,10 +12,10 @@ Coding-marathon from pythonist.ru
 2. Закинуть код в https://repl.it/languages/python3
 3. Код должен запускаться и выдавать ответ
 4. Отправить сообщение правильного формата с номером задачи, ответом и ссылкой на @algoritmsrules.
-Правильный формат сообщения например на Задачу 1 такой: 
-     Задача 1.
-     Ответ - 155
-     https://repl.it/@UTSRmapper/gladosbot#bot.py
+Правильный формат сообщения например на *Задачу 1* такой:<br>
+    Задача 1.<br>
+    Ответ - 155
+    https://repl.it/@UTSRmapper/gladosbot#bot.py
 
 Задачи будут приниматься до момента выхода решения. Внимательно прочтите формат поста с ответом.
 Посты без ссылки или без ответа или номера задачи не будут приниматься.
