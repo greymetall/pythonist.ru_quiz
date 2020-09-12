@@ -9,7 +9,7 @@
 # is_equal([0, 0]) ➞ True
 
 
-is_equal = lambda elems: True if len({sum(int(num) for num in str(elem)) for elem in elems})<2 else False
+is_equal = lambda elems: len({sum(int(num) for num in str(elem)) for elem in elems})<2
 
 
-is_equal([21, 35])
+print(is_equal([105, 42]))
