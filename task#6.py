@@ -12,4 +12,4 @@
 is_equal = lambda elems: True if len({sum(int(num) for num in str(elem)) for elem in elems})<2 else False
 
 
-print(is_equal([105, 42]))
+is_equal([21, 35])
