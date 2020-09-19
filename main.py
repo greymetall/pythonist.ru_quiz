@@ -15,6 +15,6 @@
 
 
 def is_repdigit(digit:int):
-    return len({num for num in str(digit) if digit >= 0}) == 1
+    return len({num for num in str(digit)}) == 1
 
 print(is_repdigit(66))
